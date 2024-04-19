@@ -86,7 +86,7 @@ img{
     border: none;
     border-radius: 20px;
     padding: 10px; margin-top: 493px;
-    margin-left: -320px;
+    margin-left: -340px;
     color: white;
     font-weight: bold;
 } 
@@ -130,8 +130,8 @@ img{
     justify-content: center;
     align-items: center; 
     background-image: url('./ph3.jpg');
-    background-size: 900px 900px;
-    background-repeat: repeat;
+    background-size: 1800px 1800px;
+    background-repeat: no-repeat;
 
 }
 .pbody{
@@ -139,7 +139,7 @@ img{
     /* background-color: black; */
     height: 100vh;
     background-image: url('./ph2.jpg');
-    background-size: 900px 900px;
+    background-size: 1800px 1800px;
     background-repeat: repeat;
 }
 

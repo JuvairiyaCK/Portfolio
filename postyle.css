@@ -41,8 +41,8 @@ a{
     justify-content: center;
     align-items: center; 
     background-image: url('./ph4.jpg');
-    background-size: 900px 900px;
-    background-repeat: repeat;
+    background-size: 1800px 1800px;
+    background-repeat: no-repeat;
 }
 img{
     height: 250px;
@@ -66,11 +66,7 @@ img{
     color: white;
     font-size: larger;   
 }
-/* #d3{
-    margin-top: 480px;
-    margin-left: -215px;
-}
-#d4{
+/*#d4{
     margin-top: 480px;
     margin-left: 20px;
 }
@@ -78,6 +74,11 @@ img{
     margin-top: 480px;
     margin-left: 24px;
 } */
+ #d3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 .button{
     /* background-color: rgb(108, 108, 214); */
     /* background-color: rgb(115, 52, 216); */
@@ -85,7 +86,7 @@ img{
     border: none;
     border-radius: 20px;
     padding: 10px; margin-top: 493px;
-    margin-left: -193px;
+    margin-left: -320px;
     color: white;
     font-weight: bold;
 } 

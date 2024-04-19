@@ -154,12 +154,12 @@ img{
     background-color: white;
     border: none; 
     border-radius: 50%;
-    height: 35%;
+    height: 25%;
      width: 60%; 
  }  
 #pdd1{
    text-align: center;
-   padding: 50px;
+   padding: 30px;
   } 
   #pp1,#pp2,#pp3{
     text-align: center;

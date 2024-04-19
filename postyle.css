@@ -10,6 +10,8 @@
     font-weight: bold;
     padding: 10px;
     position: sticky;
+    display: flex;
+    justify-content:space-between;
     top: 0px;
     border:none;
     border-radius: 7px 7px 0px 0px;
@@ -20,36 +22,16 @@
     margin-right: 20px; 
     
 }
- #l1,#l5{
-     margin-right: 410px; 
-} 
 #l2{
     color: rgb(132, 132, 228);
 }
 i,#l6{
-    margin-right: 5px;
+    margin-right: 7px;
 }
 a{
     color: grey;
     text-decoration: none;
 }
-/* button{
-    border: none;
-    outline: none;
-    padding: 10px 12px;
-    border-radius: 50%;
-    background-color: bisque;
-    color: white; 
-    
-} */
- /* i{
-    border: none;
-    outline: none;
-    padding: 10px 12px;
-    border-radius: 50%;
-    background-color:gray ;
-    color: black; 
-}  */
 .body{
     /* background-color: rgb(227, 154, 245); */
     /* background-color: rgb(170, 170, 226); */
@@ -97,7 +79,7 @@ img{
     margin-top: 480px;
     margin-left: 24px;
 } */
-button{
+.button{
     /* background-color: rgb(108, 108, 214); */
     /* background-color: rgb(115, 52, 216); */
     background-color: blue;
@@ -106,9 +88,21 @@ button{
     padding: 10px; margin-top: 493px;
     margin-left: -193px;
     color: white;
+    font-weight: bold;
 } 
-h2{
-    text-align: center;
+.scndheader{
+    background-color: white;
+    height: 20px;
+    border: 2px solid white;
+    color: gray;
+    font-weight: bold;
+    padding: 10px;
+    position: sticky;
+    display: flex;
+    justify-content:space-around;
+    top: 0px;
+    border:none;
+    border-radius: 7px 7px 0px 0px;
 }
 .s{
     background-color: white;

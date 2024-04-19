@@ -141,45 +141,25 @@ img{
     background-image: url('./ph2.jpg');
     background-size: 1800px 1800px;
     background-repeat: no-repeat;
-}
-
-/* .pi1{
-    height: 500px;
-    width: 500px;
-    border: none;
-    border-radius: 0%;
-    margin-top: 50px;
-    border: none; */
-    /* border-radius: 50%; */
-/* } */
- .pd1{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
+    padding: 20px;
+}
+ .pd1{
     text-align: center;
-    column-gap: 25px;
-    row-gap: 20px;
-    /* color: white; */
-    margin-left: 32px;
-    font-weight: bold;
-    padding: 10px; 
+     font-weight: bold; 
+    padding: 20px;  
+    background-color: white;
+    border: none; 
+    border-radius: 50%;
+    height: 35%;
+     width: 60%; 
  }  
 #pdd1{
-    /* background-color: rgb(211, 88, 160); */
-    background-color: white;
-    display: grid;
-    flex-direction: row;
-    justify-content: center;
-    align-content: center;
-    height: 45%;
-    width: 60%;
-    padding: 30px;
-    margin-top: 180px; 
-    border: none;
-    border-radius: 50%;
-    /* border-style: solid double ridge groove; */
-
+   text-align: center;
+   padding: 50px;
   } 
   #pp1,#pp2,#pp3{
     text-align: center;

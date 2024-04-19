@@ -140,7 +140,7 @@ img{
     height: 100vh;
     background-image: url('./ph2.jpg');
     background-size: 1800px 1800px;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
 
 /* .pi1{

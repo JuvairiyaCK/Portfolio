@@ -92,13 +92,14 @@ img{
 .scndheader{
     background-color: white;
     height: 20px;
+    /* border: 2px solid white; */
     color: gray;
     font-weight: bold;
     padding: 10px;
     position: sticky;
     display: flex;
     justify-content:space-around;
-    align-content: center;
+    align-items: center;
     top: 0px;
     border:none;
     border-radius: 7px 7px 0px 0px;

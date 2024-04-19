@@ -98,6 +98,7 @@ img{
     position: sticky;
     display: flex;
     justify-content:space-around;
+    align-content: center;
     top: 0px;
     border:none;
     border-radius: 7px 7px 0px 0px;

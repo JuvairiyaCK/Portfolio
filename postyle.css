@@ -154,24 +154,36 @@ img{
     background-color: white;
     border: none; 
     border-radius: 50%;
-    height: 25%;
-     width: 60%; 
+    height: 350px;
+    width: 50%; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
  }  
 #pdd1{
    text-align: center;
    padding: 30px;
+   display: flex; 
+   flex-direction: column;
+   justify-content: center;
+   align-content: center;
   } 
   #pp1,#pp2,#pp3{
     text-align: center;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 #pp2{
-    margin-right: -5px;
+    margin-right: -27px;
 }
-#pp1{
+/* #pp1{
     margin-left: -24px;
 }
 #pp3{
     margin-right: -56px;
-}
+} */
   

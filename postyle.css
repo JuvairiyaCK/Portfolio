@@ -76,7 +76,7 @@ img{
     display: flex;
     justify-content: start;
     align-items: center;
-    padding: 20px;
+    padding: 30px;
 }
 .button{ 
     background-color: blue;
